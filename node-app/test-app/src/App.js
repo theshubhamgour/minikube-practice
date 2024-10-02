@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Demo Project for Minikube
+          Demo Project for Minikube : v1
         </p>
         <a
           className="App-link"
